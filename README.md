@@ -1,5 +1,7 @@
 # embedding-word2vec
-DSLab Embedding &amp; Word2vec Study Repository
+**DSLab Embedding &amp; Word2vec Study Repository**
+
+> 프로젝트 자료 및 코드는 폴더로 관리
 
 - 1주차(3.29~4.4): stanford 강의 word2vec 중심으로 들어보기 lecture 1 들어오기
 
